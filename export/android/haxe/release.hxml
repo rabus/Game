@@ -1,0 +1,17 @@
+-main ApplicationMain 
+-lib openfl
+-lib openfl-native
+-lib flixel
+-lib flixel-ui
+-lib flixel-addons
+-lib actuate
+-cp src
+-D tools=1
+-D openfl_ver=1.0.10
+-D openfl
+-D android
+-D mobile
+-cp export/android/haxe
+-cpp export/android/obj
+--macro allowPackage("flash")
+-D android

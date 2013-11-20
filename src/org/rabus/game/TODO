@@ -1,0 +1,12 @@
+TODO:
+	IMPORTANT:
+		- Universal controls interface
+	FEATURES:
+		- Changing player state (acid, ice) - with different skills
+		- Jumping higher after ducking
+		- Enemies
+		- Hurt, death animations + gibs with FLXEmitter
+		- Sounds
+		- Weapons?
+		- Ladder mechanics
+		- Water mechanics (swimming or death?)
